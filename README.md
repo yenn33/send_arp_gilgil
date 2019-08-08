@@ -1,4 +1,4 @@
 # send_arp_gilgil
 
-컴파일 : gcc -o send_arp main.cpp -lpcap
-실행 : sudo send_arp <interface> <sender_ip> <target_ip>
+COMPILE : gcc -o send_arp main.cpp -lpcap <br>
+RUN : sudo send_arp <interface> <sender_ip> <target_ip>
